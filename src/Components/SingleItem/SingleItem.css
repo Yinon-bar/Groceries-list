@@ -12,6 +12,10 @@
   cursor: pointer;
 }
 
+/* .Checked {
+  text-decoration: line-through;
+} */
+
 .SingleItem .Discribe {
   display: flex;
   width: 45%;

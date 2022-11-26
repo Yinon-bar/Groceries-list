@@ -1,0 +1,27 @@
+.AddItem {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+}
+
+.AddItem form {
+  width: 30%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem;
+}
+
+.AddItem input {
+  width: 100%;
+  height: 2rem;
+}
+
+.AddItem button {
+  height: 2rem;
+  padding: 0.5rem;
+  display: flex;
+  align-items: center;
+}
