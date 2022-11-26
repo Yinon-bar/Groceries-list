@@ -1,10 +1,7 @@
-.App {
-  /*  */
-}
-
-.Container {
-  width: 1400px;
+.Content {
   display: flex;
   align-items: center;
   justify-content: center;
+  height: 80vh;
+  background-color: #fff;
 }

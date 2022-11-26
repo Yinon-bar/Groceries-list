@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "item": "Milk",
+      "checked": false,
+      "price": 8.9
+    },
+    {
+      "id": 2,
+      "item": "Bread",
+      "checked": false,
+      "price": 3.9
+    },
+    {
+      "id": 3,
+      "item": "Meet",
+      "checked": false,
+      "price": 39.9
+    },
+    {
+      "id": 4,
+      "item": "Sugar",
+      "checked": false,
+      "price": 9.5
+    },
+    {
+      "id": 5,
+      "item": "Tomato",
+      "checked": false,
+      "price": 1.99
+    },
+    {
+      "id": 6,
+      "item": "Rice",
+      "checked": false,
+      "price": 3.49
+    },
+    {
+      "id": 7,
+      "item": "Pasta",
+      "checked": false,
+      "price": 8.9
+    },
+    {
+      "id": 8,
+      "item": "Soda",
+      "checked": false,
+      "price": 11.0
+    },
+    {
+      "id": 9,
+      "item": "Mango",
+      "checked": false,
+      "price": 4.9
+    },
+    {
+      "id": 10,
+      "item": "Pineapple",
+      "checked": false,
+      "price": 29.9
+    }
+  ]
+}
