@@ -3,8 +3,7 @@ import { FaTrashAlt } from "react-icons/fa";
 // import { useState } from "react";
 
 function SingleItem({ data }) {
-  // const [checked, setChecked] = useState(null);
-  console.log(data);
+  const [checked, setChecked] = useState(null);
 
   function handleItem(e) {
     console.log(e.target);
