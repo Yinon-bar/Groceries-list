@@ -1,0 +1,7 @@
+.ItemList {
+  /* height: 300px; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0.5rem 0rem;
+}
